@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-# Author: Salomon Machuca Duran
+# Author: Salomon Machuca Duran 
+# Video 6 - Ended
 
 [![Codeship Status for emdiez/foro-styde-2](https://app.codeship.com/projects/46c7b660-a1d9-0137-f8bf-7ee568a118ca/status?branch=master)](https://app.codeship.com/projects/360040)
 
